@@ -42,22 +42,32 @@ o	Pack P = 2 cards from Box D
 o	Pack Q = 1 card from Box E
 
 •	Objective of game is to enter correct option to Index Card displayed. Options allowed to enter in Input box is A, B, C and D. Option entered should be in capital letter. If input box is kept blank then also it will be considered as wrong answer.
+
 •	To freeze your option, enter the desired option in blank space & press the Push Button.
+
 •	Repeat the process till the Round consist of 15 Index cards is not complete.
+
 •	During the Game we can use Hint & Get Answer option, if we are not aware of answers.
+
 •	Get Answer option can only be activated by using Hint push button first.
+
 •	After completing every round of 15 Index Cards we can decide, either we want to continue or quit from message box displayed in end of round completion.
+
 •	Index Cards will move from one box to other on basis of 3 criteria.
-o	When selected option is correct, Index Card will move from one box to other in alphabetic order. But Index Card of box E will remain in box E for correct answers.
-o	When selected option is wrong, Index Card will move to box A. But Index Card of box A will remain in box A for wrong answers.
-o	When Hint is used for Index Card ,
-	Index card will stay in same box .If selected option is correct.
-	Index card will move to box A .If selected option is wrong.
+
+     o	When selected option is correct, Index Card will move from one box to other in alphabetic order. But Index Card of box E will remain in box E for correct answers.
+     
+     o	When selected option is wrong, Index Card will move to box A. But Index Card of box A will remain in box A for wrong answers.
+     
+     o	When Hint is used for Index Card ,
+         	Index card will stay in same box .If selected option is correct.
+         	Index card will move to box A .If selected option is wrong.
  
 •	Within Game window , we can check backend data of Index Cards
-o	Index Cards availability before starting the Round in boxes A, B, C, D, and E.
-o	Index Cards pickup pattern for M, N, O, P, and Q packs for present Round.
-o	Real time data for number of correct answers for present Round.
+      o	Index Cards availability before starting the Round in boxes A, B, C, D, and E.
+      o	Index Cards pickup pattern for M, N, O, P, and Q packs for present Round.
+      o	Real time data for number of correct answers for present Round.
+      
 •	Game will ask to restart the program again.
-o	When there are insufficient Index cards in box E for pickup.
-o	When box E is full of all 30 Index cards.
+     o	When there are insufficient Index cards in box E for pickup.
+     o	When box E is full of all 30 Index cards.
