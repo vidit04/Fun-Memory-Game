@@ -27,7 +27,7 @@ If Index box contain less questions for assigned Pack, then the Pack quantity wi
 
 •	To play “Fun Memory Game” run Game.m file.
 
-    o	Alone with Game.m, other file Book1.xlsx & Pic.jpg should be present in same folder.
+    -Alone with Game.m, other file Book1.xlsx & Pic.jpg should be present in same folder.
 
 •	When you press run command, first 15 set of Index card will be displayed on screen one by one in Round 1.
 
