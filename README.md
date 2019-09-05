@@ -52,9 +52,7 @@ If Index box contain less questions for assigned Pack, then the Pack quantity wi
 •	Index Cards will move from one box to other on basis of 3 criteria.
 
       -When selected option is correct, Index Card will move from one box to other in alphabetic order. But Index Card of box E will remain in box E for correct answers.
-     
       -When selected option is wrong, Index Card will move to box A. But Index Card of box A will remain in box A for wrong answers.
-     
       -When Hint is used for Index Card ,
          	Index card will stay in same box .If selected option is correct.
          	Index card will move to box A .If selected option is wrong.
