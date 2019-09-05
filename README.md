@@ -67,3 +67,5 @@ If Index box contain less questions for assigned Pack, then the Pack quantity wi
 
       -When there are insufficient Index cards in box E for pickup.
       -When box E is full of all 30 Index cards.
+
+For more detail understanding of project please refer Project_2018.pdf and Report_ISP.pdf
