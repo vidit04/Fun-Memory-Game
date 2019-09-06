@@ -29,6 +29,7 @@ If Index box contain less questions for assigned Pack, then the Pack quantity wi
 
     -Alone with Game.m, other file Book1.xlsx & Pic.jpg should be present in same folder.
 
+![](image.png)
 •	When you press run command, first 15 set of Index card will be displayed on screen one by one in Round 1.
 
     -Pack M = 5 cards from Box A
