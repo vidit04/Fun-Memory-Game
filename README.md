@@ -28,8 +28,7 @@ If Index box contain less questions for assigned Pack, then the Pack quantity wi
 •	To play “Fun Memory Game” run Game.m file.
 
     -Alone with Game.m, other file Book1.xlsx & Pic.jpg should be present in same folder.
-
-![](image.png)
+    
 •	When you press run command, first 15 set of Index card will be displayed on screen one by one in Round 1.
 
     -Pack M = 5 cards from Box A
@@ -37,6 +36,9 @@ If Index box contain less questions for assigned Pack, then the Pack quantity wi
     -Pack O = 3 cards from Box C
     -Pack P = 2 cards from Box D
     -Pack Q = 1 card from Box E
+
+
+![](image.png)
 
 •	Objective of game is to enter correct option to Index Card displayed. Options allowed to enter in Input box is A, B, C and D. Option entered should be in capital letter. If input box is kept blank then also it will be considered as wrong answer.
 
